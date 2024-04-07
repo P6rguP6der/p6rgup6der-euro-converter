@@ -1,6 +1,6 @@
 
 # P6rguP6der Euro Converter
-A simple lightweight plugin for converting Euros into other currencies (and vice versa).
+A simple lightweight WordPress plugin for converting Euros into other currencies (and vice versa).
 
 It is meant to be used as a client code inside themes or other plugins.
 
